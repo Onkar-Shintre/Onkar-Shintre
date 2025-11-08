@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 I’m currently working on **full-stack MERN applications** and **Python projects**
+- 🚀 I’m currently working on **full-stack MERN applications** 
 - 🌱 I’m exploring **Data Structures**, **Algorithms**, and **Web3 technologies**
 - 💡 I enjoy solving real-world problems through code
 - 💼 Check out my projects: [Portfolio](https://your-portfolio-link)
