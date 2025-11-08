@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Onkar Shintre</h1>
-<h3 align="center">💻 A Passionate MERN & Python Developer from India 🇮🇳</h3>
+<h3 align="center">💻 A Passionate MERN  Developer </h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -15,7 +15,7 @@
 - 🌱 I’m exploring **Data Structures**, **Algorithms**, and **Web3 technologies**
 - 💡 I enjoy solving real-world problems through code
 - 💼 Check out my projects: [Portfolio](https://your-portfolio-link)
-- ✉️ Reach me at: **onkarshintre@gmail.com**
+- ✉️ Reach me at: **shintreomkar07@gmail.com**
 - 📄 [View My Resume](https://github.com/Onkar-Shintre/Onkar-Shintre/raw/main/Resume.pdf)
 
 ---
@@ -23,9 +23,9 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:onkarshintre@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://leetcode.com/your-leetcode" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/onkar-shintre-104900298" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:shintreomkar07@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/Onkar-Shintre" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F79F1B?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
 ---
